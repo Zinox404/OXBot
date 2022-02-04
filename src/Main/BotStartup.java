@@ -16,7 +16,7 @@ public class BotStartup {
 		
 		
 		
-		JDABuilder jda = JDABuilder.createDefault("OTM4NzMyNDY4NDYxMjQ0NDQ2.YfukvQ.bBH3LH7JulUQ7_kO0n-K8Vik8Wk");
+		JDABuilder jda = JDABuilder.createDefault("OTM4NzMyNDY4NDYxMjQ0NDQ2.YfukvQ.vjpJOmevQFck_brG-O3QRiC_Gt8");
 		jda.setActivity(Activity.watching("dir beim Schlafen zu"));
 		jda.setStatus(OnlineStatus.ONLINE);
 		
