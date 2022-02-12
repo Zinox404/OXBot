@@ -15,7 +15,13 @@ public class BotStartup {
 	
 	public BotStartup() throws LoginException {
 		
+<<<<<<< HEAD:src/at/java/main/BotStartup.java
 		JDABuilder jda = JDABuilder.createDefault("OTM4NzMyNDY4NDYxMjQ0NDQ2.YfukvQ.vjpJOmevQFck_brG-O3QRiC_Gt8");
+=======
+		
+		
+		JDABuilder jda = JDABuilder.createDefault("TOKEN");
+>>>>>>> 08ecaa6dcb4729c09df1d63c028f0bf1d237bc9a:src/Main/BotStartup.java
 		jda.setActivity(Activity.watching("dir beim Schlafen zu"));
 		jda.setStatus(OnlineStatus.ONLINE);
 		
