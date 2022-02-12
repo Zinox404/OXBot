@@ -1,4 +1,4 @@
-package Main.Commands;
+package commands;
 
 public class Help {
 	
