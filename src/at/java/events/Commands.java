@@ -1,4 +1,4 @@
-package events;
+package at.java.events;
 
 import java.awt.Color;
 
