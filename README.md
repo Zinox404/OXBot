@@ -7,9 +7,3 @@ playing music, reacting to conversations, etc..
 _________________________________________
 Source Code can be used for own projects!
 _________________________________________
-
-
---Note:
-
-The Token for the Discord Bot get's refreshed every commit, so spare your time 
-and don't even try it. ;)
